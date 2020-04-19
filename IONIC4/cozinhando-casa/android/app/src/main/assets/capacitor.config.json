@@ -1,0 +1,8 @@
+{
+  "appId": "com.azura.cozinhandoCasa",
+  "appName": "Cozinhando em Casa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
